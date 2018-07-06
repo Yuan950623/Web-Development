@@ -1,0 +1,12 @@
+li {
+	border: 2px solid red;
+}
+
+#yes {
+	color: red;
+	background: black;
+}
+
+.completed {
+	text-decoration: line-through;
+}
